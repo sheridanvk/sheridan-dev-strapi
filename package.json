@@ -20,13 +20,15 @@
     "strapi-plugin-content-manager": "3.6.8",
     "strapi-plugin-content-type-builder": "3.6.8",
     "strapi-plugin-email": "3.6.8",
+    "strapi-plugin-graphql": "^3.6.8",
     "strapi-plugin-i18n": "3.6.8",
     "strapi-plugin-upload": "3.6.8",
     "strapi-plugin-users-permissions": "3.6.8",
+    "strapi-provider-upload-cloudinary": "3.6.8",
     "strapi-utils": "3.6.8"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Sheridan Kates"
   },
   "strapi": {
     "uuid": "2c47d722-e178-427c-88eb-c78282ef4977"
